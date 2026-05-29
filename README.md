@@ -114,7 +114,7 @@ No es necesario instalar dependencias externas.
 
 El vídeo demostrativo del proyecto está disponible en el siguiente enlace:
 
-https://www.youtube.com/watch?v=KHFpx3d34GH
+https://youtu.be/sUJhKSgC5ec
 
 ## Uso de herramientas externas o IA
 
